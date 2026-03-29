@@ -23,5 +23,5 @@
 - Absolute filepaths used for tools (ie. `/sbin/ip` etc.)
 - `$PATH` defined early on
 - Enhanced error handling throughout
-- Additional `Responder_console.log` file issued to the `/responder/` folder
+- Additional `Responder_console.log` file issued to the `/loot/` folder
 - Compatible with the pager firmware
